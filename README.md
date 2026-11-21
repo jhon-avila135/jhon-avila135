@@ -27,8 +27,8 @@ I am passionate about backend development, data analysis, and network infrastruc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhon-avilat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-avilat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhon-avila135&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-avila135&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" />
 </div>
 
 ---
@@ -37,4 +37,10 @@ I am passionate about backend development, data analysis, and network infrastruc
 * 🔭 Currently building robust web systems and exploring microservices architecture.
 * 📈 Experience in multivariate data analysis (K-Means, Ward.D2).
 * 🏎️ Developed scripts to process simulator telemetry data via UDP sockets.
-* 📫 How to reach me: [your_email@email.com](mailto:your_email@email.com) | [LinkedIn](YOUR_LINKEDIN_URL)
+
+---
+
+### 📌 Featured Projects
+
+* **[web-programming-projects](https://github.com/jhon-avila135/web-programming-projects)**: monorepo for my Web Programming course. Spring Boot, PostgreSQL, Docker, an Nginx gateway, CI/CD with GitHub Actions, and AWS deployment behind a load balancer.
+* **[scraping-instagram-profile_V3Benford](https://github.com/jhon-avila135/scraping-instagram-profile_V3Benford)**: Instagram profile analyzer that uses Benford's law to spot bots and fake accounts.
